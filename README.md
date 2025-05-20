@@ -97,7 +97,7 @@ Los endpoints principales se encuentran en el `CapacidadDemandaController`:
 
 Una vez ejecutado el backend, la documentación Swagger estará disponible en:
 ```
-http://localhost:8080/swagger-ui/index.html#/capacidad-demanda-controller/downloadFile
+http://localhost:8080/swagger-ui/index.html
 ```
 
 ## Estructura del Código
